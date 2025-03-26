@@ -2,22 +2,16 @@
     width: 1500px;
 height: 700px;
 background-color: rgb(255, 255, 255);
-border: 2px solid black;
+border: 2px solid rgb(255, 255, 255);
 padding: 1px;
 }
-
-.marco {
-
-  
-}
-
 
 
 .cuadradosuperior{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(50, 30, 94);
+    background-color: rgb(0, 0, 0);
     width: 1490px;
     height: 100px;
     }
@@ -30,7 +24,7 @@ padding: 1px;
     color: white;
     font-size: 30px;
 position: absolute;
-left: 400px;
+left: 600px;
 
 }
 
@@ -47,13 +41,13 @@ left: 400px;
 
 .Textooo {
     color: white;
-    font-size: 15px;
+    font-size:22px;
     }
 
 .cuadradoabajo{
    
   
-    background-color: rgb(50, 30, 94);
+    background-color: rgb(0, 0, 0);
     width: 1490px;
     height: 100px;
     position: absolute;
@@ -66,7 +60,111 @@ left: 400px;
         left: 210px;
         top: 115px;
         color: rgb(0, 0, 0);
-        font-size: 30px;
+        font-size: 25px;
         position: absolute;
         }
     
+        .Textooo2 {
+            color: white;
+            font-size:20px;
+            align-items: center;
+            position: absolute;
+            left: 650px;
+            top: 25px;
+            }
+
+            .Cuadradomedio {
+                width: 400px; 
+                height: 200px; 
+                background-color: rgb(139, 134, 149); 
+                position: absolute;
+                left: 210px; 
+                top: 150px;}
+.img    
+ {
+  width: 400px;
+  height: 200px;
+  position: absolute;
+      left: 210px;
+          top: 150px;
+                }
+
+                .Cuadro1{
+                    border: 1px solid black;
+                    width: 600px;
+                    height: 70px;
+                    position: absolute;
+                    left: 210px;
+                    top: 360px;
+                }
+
+
+
+                .Cuadro2{
+                    border: 1px solid black;
+                    width: 600px;
+                    height: 70px;
+                    position: absolute;
+                    left: 210px;
+                    top: 440px;
+                }
+
+
+
+                .Cuadro3{
+                    border: 1px solid black;
+                    width: 600px;
+                    height: 70px;
+                    position: absolute;
+                    left: 210px;
+                    top: 520px;
+                }
+
+
+.Textozzz{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    position: absolute;
+    left: 210px;
+    top: 360px;
+    }
+
+.Textozzz2{
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        position: absolute;
+        left: 210px;
+        top: 440px;
+        }
+
+.Textozzz3{
+            color: rgb(0, 0, 0);
+            font-size: 20px;
+            position: absolute;
+            left: 210px;
+            top: 520px;
+            }
+
+.Textozzz4{
+                color: rgb(0, 0, 0);
+                font-size: 20px;
+                position: absolute;
+                left: 210px;
+                top: 380px;
+                }           
+.Textozzz5{
+                    color: rgb(0, 0, 0);
+                    font-size: 20px;
+                    position: absolute;
+                    left: 210px;
+                    top: 460px;
+                    }           
+    .Textozzz6{
+                        color: rgb(0, 0, 0);
+                        font-size: 20px;
+                        position: absolute;
+                        left: 210px;
+                        top: 540px;
+                        }           
+
+            
