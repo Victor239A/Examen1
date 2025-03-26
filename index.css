@@ -1,0 +1,72 @@
+.header{
+    width: 1500px;
+height: 700px;
+background-color: rgb(255, 255, 255);
+border: 2px solid black;
+padding: 1px;
+}
+
+.marco {
+
+  
+}
+
+
+
+.cuadradosuperior{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(50, 30, 94);
+    width: 1490px;
+    height: 100px;
+    }
+   
+.texto {
+   display: center;
+    justify-content: center;
+    text-align:center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+position: absolute;
+left: 400px;
+
+}
+
+
+    .cuadradoizquierdo {
+        width: 200px; 
+        height: 500px; 
+        background-color: rgb(50, 30, 94); 
+        position: absolute;
+        left: 6px; 
+        top: 106px; 
+}
+
+
+.Textooo {
+    color: white;
+    font-size: 15px;
+    }
+
+.cuadradoabajo{
+   
+  
+    background-color: rgb(50, 30, 94);
+    width: 1490px;
+    height: 100px;
+    position: absolute;
+    left: 6px;
+    top: 600px;
+
+    }
+
+    .texto2 {
+        left: 210px;
+        top: 115px;
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        position: absolute;
+        }
+    
